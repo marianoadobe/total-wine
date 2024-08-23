@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/total-wine/:/",
-    "/content/total-wine/configuration:/.helix/config.json"
+    "/content/total-wine-more/:/",
+    "/content/total-wine-more/configuration:/.helix/config.json"
   ]
 }
