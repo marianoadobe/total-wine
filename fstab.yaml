@@ -1,6 +1,6 @@
 mountpoints:
   # /: https://adobe.sharepoint.com/:f:/r/sites/Solution-LedMSCTeam/Shared%20Documents/General/Edge%20Delivery%20Projects/sol-sc-boilerplate-xwalk
   /:
-    url: "https://author-p130802-e1275950.adobeaemcloud.com/bin/franklin.delivery/marianoadobe/total-wine/main"
+    url: "https://author-p130802-e1275950.adobeaemcloud.com/bin/franklin.delivery/marianoadobe/total-wine-more/main"
     type: "markup"
     suffix: ".html"
